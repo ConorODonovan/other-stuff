@@ -1,3 +1,5 @@
+# Collatz Conjecture
+
 import time
 
 def collatz(num, steps):
